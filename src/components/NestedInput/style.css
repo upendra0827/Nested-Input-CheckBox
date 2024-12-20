@@ -1,0 +1,15 @@
+.nested-input {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.children {
+    margin-left: 20px;
+    padding: 6px;
+}
+
+input {
+    cursor: pointer;
+}
